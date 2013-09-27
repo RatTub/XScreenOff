@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference 
+        android:key="keep_screen_off"
+        android:title="@string/keep_screen_off_checkbox_title"
+        android:summary="@string/keep_screen_off_checkbox_summary"
+        android:defaultValue="true"/>
+</PreferenceScreen>

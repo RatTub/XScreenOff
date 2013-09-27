@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XScreenOff</string>
+	<string name="keep_screen_off_checkbox_title">Keep Screen Off</string>
+	<string name="keep_screen_off_checkbox_summary">When enabled, the screen will stay off when the device is plugged/unplugged</string>
+</resources>
